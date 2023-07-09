@@ -5,7 +5,6 @@ Things I am using
 ## Editor
 
 - Editor: [VS Code](https://code.visualstudio.com/)
-<!-- - VS Code Settings & Extensions: [antfu/vscode-settings](https://github.com/antfu/vscode-settings) -->
 - Fonts: [Fira Code](https://github.com/tonsky/FiraCode)
 - File Icons: [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -36,15 +35,9 @@ Things I am using
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editing
 - [Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html) - Photo Editing and Management
 
-<!-- ## Hardware
+ ## Hardware
 
-- MacBook Pro 16' M1 Max 64GB
-- Microphone: Blue Yeti Nano
-- Camera: RICOH GR IIIx / Nikon Z6 II
-- Monitor: LG 27UL850-W
-- Mouse: Logitech MX Ergo / MX Master 3
-- Light: Elgato Key Light Air
-- (no external keyboard, but with Klack to make it sound like a mechanical one) -->
+- MacBook Pro (16-inch, 2019) 1TB
 
 ## CLI
 
@@ -52,19 +45,16 @@ Things I am using
   - Config: [hunghg255/dotfiles](https://github.com/hunghg255/dotfiles)
 - [`pnpm`](https://pnpm.io/) - Preferred package managers, also for monorepo
 - [`npm`](https://docs.npmjs.com/) - Preferred package managers, also for monorepo
+- [`yarn`](https://yarnpkg.com/) - Preferred package managers, also for monorepo
 
 - [`eslint`](https://eslint.org/) - Linter & Formatter
   - Config: [hunghg255/eslint-config](https://github.com/hunghg255/eslint-config)
-  - [Why I don't use Prettier](https://antfu.me/posts/why-not-prettier)
 - Build Tools for Libraries
   - [`unbuild`](https://github.com/unjs/unbuild) - Most of the time
   - [`tsup`](https://github.com/egoist/tsup) - Easy to use
   - [`rollup`](https://rollupjs.org/) - For very fine-grained control
+  - [`tsdx`](https://tsdx.io/) - Zero-config CLI for TypeScript package development
 
-<!-- ## Starter Templates
+## Starter Templates
 
-- [`vitesse`](https://github.com/antfu/vitesse) - Opinionated Vite + Vue starter template
-- [`vitesse-lite`](https://github.com/antfu/vitesse-lite) - Lite version of Vitesse
-- [`starter-ts`](https://github.com/antfu/starter-ts) - TypeScript starter template
-- [`starter-vscode`](https://github.com/antfu/starter-vscode) - VS Code Extension starter template
-1 -->
+- [`create-template-fe`](https://github.com/hunghg255/create-template-fe) - CLI create template
